@@ -61,6 +61,8 @@ I'm particularly interested in **Software Engineering, Backend Development, GenA
 
 ### 🤖 AI-Powered Requisition & Referral Management Portal
 
+🔒 **Internal Internship Project — Source code not publicly available**
+
 Built and deployed an end-to-end AI-powered recruitment platform with role-based dashboards for **Hiring Managers, HR, and Employees**.
 
 - Built using **Python, FastAPI, React, Azure OpenAI, Azure SQL, Cosmos DB, and Azure Blob Storage**
@@ -72,6 +74,8 @@ Built and deployed an end-to-end AI-powered recruitment platform with role-based
 ---
 
 ### 🏥 AI-Powered Patient Triage Application
+
+🔒 **Internal Internship Project — Source code not publicly available**
 
 Built an AI-powered application to help healthcare staff prioritize patients as **Emergency, Urgent, or Routine**.
 
