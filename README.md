@@ -103,12 +103,6 @@ Built an ensemble machine learning system to predict diseases based on patient s
 ---
 
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aanchal_Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-arora-214690214/)
-
----
-
 ### 🔎 Currently Exploring Opportunities
 
 I'm currently looking for opportunities in **Software Engineering, Backend Development, GenAI/AI Engineering, AI Agents, Data, and Technology roles**.
